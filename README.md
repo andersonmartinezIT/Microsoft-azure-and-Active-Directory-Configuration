@@ -1,4 +1,4 @@
-# osTicket-Prerequisites-and-Installation
+
 Using Microsoft Azure and installing Active Directory and Creating Administrative and User Accounts 
 <p align="center">
 
