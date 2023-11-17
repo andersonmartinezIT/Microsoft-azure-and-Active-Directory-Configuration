@@ -12,7 +12,7 @@ Using Microsoft Azure and installing Active Directory and Creating Administrativ
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Active Directory
 - Microsoft Windows 10/11
