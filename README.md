@@ -111,8 +111,6 @@ Using Microsoft Azure and installing Active Directory and Creating Administrativ
 <p>&nbsp;</p>
 
 
-<p><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Finish.&nbsp;</span></span></span></p>
 
-<p><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">For a better understand please see the Youtube video link above.&nbsp;</span></span></span></p>
 
 <p>&nbsp;</p>
