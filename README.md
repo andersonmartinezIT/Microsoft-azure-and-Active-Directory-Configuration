@@ -22,17 +22,15 @@ Using Microsoft Azure and installing Active Directory and Creating Administrativ
 
 <p><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Setup Resources in Azure</span></span></span></p>
 
-<ol>
-	<li style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Create the Domain Controller VM (Windows Server 2022) named &ldquo;DC-1&rdquo;</span></span></span>
+<p style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Create the Domain Controller VM (Windows Server 2022) named &ldquo;DC-1&rdquo;</span></span></span></p>
 
-	<ol>
-		<li style="list-style-type:lower-alpha"><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Take note of the Resource Group and Virtual Network (Vnet) that get created at this time</span></span></span></li>
-	</ol>
-	</li>
-	<li style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Set Domain Controller&rsquo;s NIC Private IP address to be static</span></span></span></li>
-	<li style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Create the Client VM (Windows 10) named &ldquo;Client-1&rdquo;. Use the same Resource Group and Vnet that was created in Step 1.a (make sure that Client-1 is on the same network as the DC-1 windows server computer. You might have to wait a while until Azure is done creating the network for DC-1.)</span></span></span></li>
-	<li style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Ensure that both VMs are in the same Vnet (You can check by clicking on the virtual machine you then looking at the overview information)</span></span></span></li>
-</ol>
+<p style="list-style-type:lower-alpha"><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Take note of the Resource Group and Virtual Network (Vnet) that get created at this time</span></span></span></p>
+
+<p style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Set Domain Controller&rsquo;s NIC Private IP address to be static</span></span></span></p>
+
+<p style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Create the Client VM (Windows 10) named &ldquo;Client-1&rdquo;. Use the same Resource Group and Vnet that was created in Step 1.a (make sure that Client-1 is on the same network as the DC-1 windows server computer. You might have to wait a while until Azure is done creating the network for DC-1.)</span></span></span></p>
+
+<p style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Ensure that both VMs are in the same Vnet (You can check by clicking on the virtual machine you then looking at the overview information)</span></span></span></p>
 
 <p>&nbsp;</p>
 
@@ -105,6 +103,13 @@ Using Microsoft Azure and installing Active Directory and Creating Administrativ
 </ol>
 
 <p>&nbsp;</p>
+
+<p><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Finish.&nbsp;</span></span></span></p>
+
+<p><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">For a better understand please see the Youtube video link above.&nbsp;</span></span></span></p>
+
+<p>&nbsp;</p>
+
 
 <p><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Finish.&nbsp;</span></span></span></p>
 
