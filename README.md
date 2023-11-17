@@ -14,7 +14,9 @@ Using Microsoft Azure and installing Active Directory and Creating Administrativ
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Active Directory
+- Microsoft Windows 10/11
+- Microsoft Windows Server
 
 <h2>Operating Systems Used </h2>
 
