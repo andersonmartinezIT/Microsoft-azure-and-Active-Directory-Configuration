@@ -22,7 +22,7 @@ Using Microsoft Azure and installing Active Directory and Creating Administrativ
 
 - Windows 10</b> (21H2)
 
-<p><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Setup Resources in Azure</span></span></span></p>
+<p><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Setup Resource Group in Azure</span></span></span></p>
 
 <p style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">Create the Domain Controller VM (Windows Server 2022) named &ldquo;DC-1&rdquo;</span></span></span></p>
 
