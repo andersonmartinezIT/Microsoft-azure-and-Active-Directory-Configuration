@@ -4,7 +4,7 @@ Using Microsoft Azure and installing Active Directory and Creating Administrativ
 
 </p>
 
-<h1>Microsoft Azure and Acitve Directory Configuration</h1>
+<h1>Microsoft Azure and Active Directory Configuration</h1>
 
 <h2>Video Demonstration</h2>
 
