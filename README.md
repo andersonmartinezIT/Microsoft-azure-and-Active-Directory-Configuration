@@ -99,7 +99,7 @@ Using Microsoft Azure and installing Active Directory and Creating Administrativ
 <p>&nbsp;</p>
 
 <ol start="27">
-	<li style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">attempt to log into Client-1 with one of the accounts (take note of the password in the script)</span></span></span></li>
+	<li style="list-style-type:decimal"><span style="font-size:12pt"><span style="font-family:Arial,sans-serif"><span style="color:#000000">attempt to log into Client-1 with one of the accounts </span></span></span></li>
 </ol>
 
 <p>&nbsp;</p>
