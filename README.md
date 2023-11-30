@@ -1,8 +1,8 @@
-
-Using Microsoft Azure and installing Active Directory and Creating Administrative and User Accounts 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png" alt="osTicket logo"/>
 </p>
+Using Microsoft Azure and installing Active Directory and Creating Administrative and User Accounts 
+
 
 <h1>Microsoft Azure and Active Directory Configuration</h1>
 
